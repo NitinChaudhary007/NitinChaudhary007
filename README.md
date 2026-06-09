@@ -28,13 +28,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,python,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,mysql" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind," />
 </p>
 
 ### Backend
@@ -52,7 +52,7 @@
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,cicd" />
 </p>
 
 ## 🏅 Coding Profiles
