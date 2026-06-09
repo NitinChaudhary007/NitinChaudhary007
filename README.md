@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nitin_Kumar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -18,7 +18,6 @@
 * 🌱 Learning **Advanced MERN Stack, System Design & Cloud**
 * 🚀 Passionate about **Full Stack Development**
 * 📚 Strong knowledge of **DSA, DBMS, OS, CN & OOPs**
-* 🏆 Secured **AIR 840 in TCS CodeVita Season 12**
 * 💡 Love building real-world scalable applications
 * 🎯 Goal: Become a World-Class Software Engineer
 
@@ -56,31 +55,17 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
----
+## 🏅 Coding Profiles
 
-## 📂 Featured Projects
-
-### 💼 Job Portal
-
-* JWT Authentication
-* Recruiter & Applicant Dashboards
-* Advanced Job Search & Filters
-* Full MERN Stack Implementation
-
-### 💬 Real-Time Chat Application
-
-* One-to-One & Group Chats
-* WebSocket-Based Real-Time Communication
-* Secure JWT Authentication
-* Live Message Updates
-
-### 📊 Aspect-Based Sentiment Analysis
-
-* BiLSTM + RGAT Architecture
-* Fine-Grained Sentiment Detection
-* NLP & Deep Learning Techniques
-
----
+<p align="center">
+  <a href="https://leetcode.com/u/Chaudhary007/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  
+  <a href="https://www.codechef.com/users/chaudhary_04">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+  </a>
+</p>
 
 ## 📈 GitHub Analytics
 
@@ -111,20 +96,10 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> To enable the snake animation, create a GitHub Action using:
-> https://github.com/Platane/snk
-
----
 
 ## 🏅 Achievements
 
-* 🥇 AIR 840 in TCS CodeVita Season 12
 * 💻 Solved 500+ DSA Problems
 * 🚀 Built Multiple Full-Stack MERN Applications
 * 📚 Strong Foundation in Computer Science Fundamentals
@@ -138,7 +113,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_GITHUB_URL">
+<a href="https://www.linkedin.com/in/nitin-kumar-a0834220a/">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -147,13 +122,7 @@
 </a>
 </p>
 
----
 
-## 💡 Quote
-
-> *"First, solve the problem. Then, write the code."* — Grace Hopper
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" />
