@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 * 💼 Software Engineer
 * 🌱 Learning **Advanced MERN Stack, System Design & Cloud**
@@ -67,7 +67,7 @@
   </a>
 </p>
 
-## 📈 GitHub Analytics
+<!-- ## 📈 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NitinChaudhary007&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -96,7 +96,7 @@
 
 ---
 
-
+ -->
 
 ## 🏅 Achievements
 
