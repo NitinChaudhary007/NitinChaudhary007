@@ -100,7 +100,8 @@
 
 ## 🏅 Achievements
 
-* 💻 Solved 500+ DSA Problems
+* 🏆 2 star CodeChef Coder with 1400+ rating
+* 💻 Solved 900+ DSA Problems
 * 🚀 Built Multiple Full-Stack MERN Applications
 * 📚 Strong Foundation in Computer Science Fundamentals
 
